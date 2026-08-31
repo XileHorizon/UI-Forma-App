@@ -17,7 +17,11 @@ If the app was cloned without submodules:
 
 ```bash
 git submodule update --init --recursive
+npm install
 ```
+
+`npm install` also initializes the kit automatically, as long as Git can access the private
+`XileHorizon/UIFormaKit` repository.
 
 ## Use the kit
 
