@@ -1,0 +1,3 @@
+[submodule "vendor/UIFormaKit"]
+	path = vendor/UIFormaKit
+	url = git@github.com:XileHorizon/UIFormaKit.git
